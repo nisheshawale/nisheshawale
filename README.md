@@ -16,7 +16,7 @@
 
 - 👨‍💻 My portfolio website [https://nisheshawale.github.io/](https://nisheshawale.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@073bex423.nishesh/the-fuel-for-artificial-intelligence-data-87e88f29e283](https://medium.com/@073bex423.nishesh/the-fuel-for-artificial-intelligence-data-87e88f29e283)
+- 📝 I regularly write articles on [https://medium.com/@073bex423.nishesh/the-fuel-for-artificial-intelligence-data-87e88f29e283](https://medium.com/@073bex423.nishesh)
 
 - 💬 Ask me about **Pytorch, Tensorflow, Natural Language Processing and Computer Vision**
 
