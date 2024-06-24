@@ -1,18 +1,19 @@
-[![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610039227/Linkedin_Cover_-_Machine_Learning_Engineer_nv0ytj.png)](https://nisheshawale.github.io/)
+<!-- [![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610039227/Linkedin_Cover_-_Machine_Learning_Engineer_nv0ytj.png)](https://nisheshawale.github.io/) -->
 
 <h1 align="center">Hi 👋, I'm Nishesh</h1>
-<h3 align="center">A dedicated machine learning engineer</h3>
+<h3 align="center">A dedicated Software Engineer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611570d586e5e12b73c4f5c6f286d04a4b7fb5aa00a&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisheshawale&label=Profile%20views&color=0e75b6&style=flat" alt="nisheshawale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/awalenishesh" target="blank"><img src="https://img.shields.io/twitter/follow/awalenishesh?logo=twitter&style=for-the-badge" alt="awalenishesh" /></a> </p>
 
-- 🔭 I’m currently working on **client scoring system at Seelogic International.**
+- 🔭 I’m currently working as a **Graduate Research Assistant** under the guidance of [Dr. Jon Youn](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/jon-youn.php) on pattern recognition from triaxial accelerometer data at the University of Nebraska at Omaha (UNO).
 
-- 🌱 I’m currently learning **transformer based models.**
+- 🌱 I’m doing my master's in Computer Science at **UNO.**
 
-- 👯 I’m looking to collaborate on **information extraction, machine translation, chatbots, OCR, image segmentation and recognition.**
+- 👯 I’m looking to collaborate on **data analysis, natural language processing, computer vision, and software development.**
 
 - 👨‍💻 My portfolio website [https://nisheshawale.github.io/](https://nisheshawale.github.io/)
 
